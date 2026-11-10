@@ -26,7 +26,7 @@ python app.py
 python student_grade_tracker.py
 ~~~
 
-On systems where Python 3 is named python3, use that command instead. Follow the prompts in the terminal. The selected student-management and grade-tracking examples use Python's built-in functionality; they do not require the data-science packages previously listed in this README.
+On systems where Python 3 is named python3, use that command instead. Follow the prompts in the terminal. The student-management and grade-tracking examples use Python's built-in functionality and require no external packages.
 
 ## Scope
 
